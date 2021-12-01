@@ -1,0 +1,4 @@
+c:\users\amar\documents\visual studio 2015\Projects\areaofcirc\areaofcirc\bin\Debug\areaofcirc.exe
+c:\users\amar\documents\visual studio 2015\Projects\areaofcirc\areaofcirc\bin\Debug\areaofcirc.pdb
+c:\users\amar\documents\visual studio 2015\Projects\areaofcirc\areaofcirc\obj\Debug\areaofcirc.exe
+c:\users\amar\documents\visual studio 2015\Projects\areaofcirc\areaofcirc\obj\Debug\areaofcirc.pdb
